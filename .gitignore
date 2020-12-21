@@ -1,8 +1,8 @@
 /framework
-/vendor
+#/vendor
 /composer.lock
 /.idea
-/config/config.php
+#/config/config.php
 /node_modules
 .php_cs.cache
 /public/s9e.js
